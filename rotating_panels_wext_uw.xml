@@ -29,4 +29,10 @@ https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext
 <url>https://wextradio.org</url>
 <redirect>n</redirect>
 </panel>
+<panel>
+<number>5</number>
+<image> https://raw.githubusercontent.com/WMHT-Public-Media/WHMT-FM/main/ads/merrilat%20640x200.jpg </image>
+<url>https://www.curtislumber.com/</url>
+<redirect>n</redirect>
+</panel>
 </rotator>
