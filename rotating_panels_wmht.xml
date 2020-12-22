@@ -1,0 +1,32 @@
+<rotator>
+  <panel>
+    <number>1</number>
+    <image>https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wmht_fm_app/4ea44dc183_Godfrey_Financial_640x200.jpg</image>
+    <url>https://www.godfreyfinancial.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>2</number>
+    <image>https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wmht_fm_app/d7b84154fc_wmht_app_bachs_lunch.jpg</image>
+    <url>https://www.wmht.org/classical</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>3</number>
+    <image>https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wmht_fm_app/45b909f727_wmht_app_donate_button.jpg</image>
+    <url>https://be.wmht.org/donate/index.html</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>4</number>
+    <image>https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wmht_fm_app/d7b84154fc_wmht_app_bachs_lunch.jpg</image>
+    <url>https://www.wmht.org/classical</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>5</number>
+    <image>https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wmht_fm_app/45b909f727_wmht_app_donate_button.jpg</image>
+    <url>https://be.wmht.org/donate/index.html</url>
+    <redirect>n</redirect>
+  </panel>
+</rotator>
