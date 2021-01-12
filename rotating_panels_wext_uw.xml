@@ -17,20 +17,12 @@ https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext
 </panel>
 <panel>
 <number>3</number>
-<image>
-https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext_app/2adcaddf3e_curtis_lumber_16_1214_640x200.jpg
-</image>
-<url>https://curtislumber.myeshowroom.com/manufacturer/dewalt1</url>
-<redirect>n</redirect>
-</panel>
-<panel>
-<number>4</number>
 <image> https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext_app/d899040954_wext_app_donate.jpg </image>
 <url>https://wextradio.org</url>
 <redirect>n</redirect>
 </panel>
 <panel>
-<number>5</number>
+<number>4</number>
 <image> https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext_app/d39eeadf49_merrilat%20640x200.jpg </image>
 <url>https://www.curtislumber.com/</url>
 <redirect>n</redirect>
