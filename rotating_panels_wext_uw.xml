@@ -9,20 +9,12 @@ https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext
 </panel>
 <panel>
 <number>2</number>
-<image>
-https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext_app/0fae26c43d_ext_app_saratoga_zymurgist.jpg
-</image>
-<url>http://www.saratogaz.com/</url>
-<redirect>n</redirect>
-</panel>
-<panel>
-<number>3</number>
 <image> https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext_app/d899040954_wext_app_donate.jpg </image>
 <url>https://wextradio.org</url>
 <redirect>n</redirect>
 </panel>
 <panel>
-<number>4</number>
+<number>3</number>
 <image> https://npr.brightspotcdn.com/04/6c/057976e44cd9a26e2759c3e77ffa/curtislumber-banner1.png </image>
 <url>https://www.curtislumber.com/</url>
 <redirect>n</redirect>
@@ -34,13 +26,13 @@ https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wmht-bento-live-pbs/wext
 <redirect>n</redirect>
 </panel>
   <panel>
-<number>4</number>
+<number>5</number>
 <image> https://npr.brightspotcdn.com/97/e3/d8128d96411db28ba45bce6507c5/curtislumber-banner3.png </image>
 <url>https://www.curtislumber.com/</url>
 <redirect>n</redirect>
 </panel>
   <panel>
-<number>4</number>
+<number>6</number>
 <image> https://npr.brightspotcdn.com/8a/f2/453735454e62999f5db8d64f0aeb/curtislumber-banner4.png </image>
 <url>https://www.curtislumber.com/</url>
 <redirect>n</redirect>
