@@ -35,4 +35,10 @@
 <url>https://www.curtislumber.com/</url>
 <redirect>n</redirect>
 </panel>
+  <panel>
+<number>7</number>
+<image>https://npr.brightspotcdn.com/18/ae/7d615d254bd09eca96780e6d1026/bringinghomegrowntoyoutable-primerib-1280x400.png</image>
+<url>https://www.honestwright.coop/</url>
+<redirect>n</redirect>
+</panel>
 </rotator>
